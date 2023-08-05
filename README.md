@@ -63,7 +63,7 @@ Install and load required packages:
 
 ``` {r}
 library(tidyverse)  # Helps wrangle data
-library(lubridate)  # eHlps wrangle date attributes
+library(lubridate)  # Helps wrangle date attributes
 library(ggplot2)  # Helps visualize data
 ```
 Steps to follow for data process:
