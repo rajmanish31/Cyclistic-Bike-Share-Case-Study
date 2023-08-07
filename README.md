@@ -35,7 +35,7 @@ Secondary Stakeholders: Cyclistic marketing analytics team.
 
 ## PHASE 2: Data Preparation
 
-The data that we will be using for this case study is Cyclistic’s historical trip data from Q1 2019 to qQ4 2019.
+The data that we will be using for this case study is Cyclistic’s historical trip data from Q1 2019 to Q4 2019.
 
 The data has been made available by Motivate International Inc. on this [link](https://divvy-tripdata.s3.amazonaws.com/index.html) under this [license](https://ride.divvybikes.com/data-license-agreement).
 
