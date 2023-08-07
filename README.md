@@ -10,7 +10,7 @@ You are a junior data analyst working in the marketing analyst team at Cyclistic
 ## About the Company
 In 2016, Cyclistic launched a successful bike-share offering. Since then, the program has grown to a fleet of 5,824 bicycles that are geotracked and locked into a network of 692 stations across Chicago. The bikes can be unlocked from one station and returned to any other station in the system anytime.
 
-The project follows the six step data analysis process: **ask, prepare, process, analyze, share,** and **act.**
+The case study follows the 6 steps of data analysis process taught in Google Data Analytics Professional Certificate Course: **Ask, Prepare, Process, Analyse, Share** and **Act.**
 
 ## PHASE 1: Ask
 
