@@ -1,4 +1,4 @@
-# Cyclistic-Bike-Share-Case-Study
+# Case Study: Cyclistic Case Study
 This is part of Google Data Analytics Capstone: Complete a Case Study Project
 
 ## Introduction
